@@ -15,8 +15,8 @@
 
 ## 🙋‍♂️ À propos de moi
 
-🎓 Étudiant en **3ème année de BUT Informatique** à **Université Paris Est Créteil (UPEC)**, spécialisé en **Réalisation d'Applications : Conception, Développement, Validation**.  
-💡 Passionné par le **développement web**, la **création d'applications innovantes**, et l'**automatisation**.  
+🎓 Étudiant en **1ère année de Master Vision** à **Université Paris**, spécialisé en **Réalisation d'Applications : Conception, Développement, Validation**.  
+💡 Passionné par l **intelligence artificielle**, la **robotique**, et l'**automatisation**.  
 🔍 Actuellement **en recherche d'une alternance** pour approfondir mes compétences en développement.
 
 
