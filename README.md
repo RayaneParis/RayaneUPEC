@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+Master+Informatique+%40+UPEC;Spécialisé+en+Vision+;Passionné+par+l'+intelligence+artificielle+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+Master+Informatique+%40+Paris;Spécialisé+en+Vision+;Passionné+par+l'+intelligence+artificielle+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 🎓 Étudiant en **1ère année de Master Vision** à **Université Paris**, spécialisé en **Vision et Machine intelligente**.  
 💡 Passionné par l **intelligence artificielle**, la **robotique**, et l'**automatisation**.  
-🔍 Actuellement **en recherche d'une alternance** pour approfondir mes compétences en développement.
+🔍 
 
 
 ## 🚀 Stack Visuelle Complète
