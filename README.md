@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4AB3ED&center=true&vCenter=true&width=600&lines=👋+Bienvenue+sur+mon+GitHub+!;Je+suis+Rayane+KHATIM;Développeur+Fullstack+%F0%9F%92%BB;Passionné+de+Tech+et+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4AB3ED&center=true&vCenter=true&width=600&lines=👋+Bienvenue+sur+mon+GitHub+!;Je+suis+Rayane+KHATIM;Développeur+Fullstack+%F0%9F%92%BB;Passionné+de+Tech+et+d%27Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Etudiant+en+Master+Informatique+%40+Paris;Spécialisé+en+Vision+;Passionné+par+l'+intelligence+artificielle+et+l'Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AB3ED&width=500&lines=Étudiant+en+Master+Informatique+%40+Paris;Spécialisé+en+Vision+et+Machine+intelligente;Passionné+par+l%27intelligence+artificielle+et+l%27Innovation+Tech;Toujours+prêt+à+relever+des+d%C3%A9fis+!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
